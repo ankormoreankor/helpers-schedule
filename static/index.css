@@ -1,0 +1,70 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #e5e5e5;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 360px;
+  padding: 15px;
+}
+
+.header-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  margin-left: 5px;
+}
+
+.header-navigation {
+  width: 330px;
+  height: 34px;
+  background-color: #ffffff;
+  padding: 16px 15px 16px 15px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-date {
+
+}
+
+.navigation-date-icon {
+
+}
+
+.navigation-date-input {
+
+}
+
+.navigation-date-input__hidden {
+  visibility: hidden;
+}
+
+.navigation-date-item {
+  font-size: 14px;
+  line-height: 19px;
+  position: relative;
+  right: 110px;
+}
+
+.navigation-users {
+
+}
+
+.navigation-users-icon {
+
+}
+
+.navigation-users-select {}
+
+.select-hidden {
+  visibility: hidden;
+}
+
+.users-select-item {
+
+}
